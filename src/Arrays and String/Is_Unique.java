@@ -4,7 +4,7 @@ import java.io.*;
 
 // 중복이 없는가?
 // test input : "abcde", "hello", "apple", "kite", "padle"
-public class _1 {
+public class Is_Unique {
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out));

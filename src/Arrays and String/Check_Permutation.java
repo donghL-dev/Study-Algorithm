@@ -6,7 +6,7 @@ import java.util.Map;
 
 
 // 순열 확인
-public class _2 {
+public class Check_Permutation {
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 

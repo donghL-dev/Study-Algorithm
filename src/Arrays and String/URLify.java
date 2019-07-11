@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 // URL화
-public class _3 {
+public class URLify {
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out));
